@@ -1,0 +1,11 @@
+venv/
+hf_cache/
+torch_cache/
+voices/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+.venv/
+
